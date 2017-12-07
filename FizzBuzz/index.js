@@ -1,3 +1,5 @@
+'use strict'
+
 function fizzBuzz() {
 
     $('#number-chooser').on('submit', event => {
